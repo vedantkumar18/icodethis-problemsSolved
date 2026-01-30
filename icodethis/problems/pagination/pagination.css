@@ -26,39 +26,9 @@ body {
     border-radius: 5px;
 }
 
-.link-page {
-    margin-left: 10px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 15px;
-    padding-right: 15px;
-    background-color: rgb(0, 0, 0);
-    color: white;
-    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.1);
-    font-size: 14px;
-    border-radius: 5px;
-}
-
-.move-nextPage,
-.move-previousPage {
-        margin-left: 10px;
-        padding-top: 10px;
-        padding-bottom: 10px;
-        padding-left: 15px;
-        padding-right: 15px;
-
-}
-
 .link:hover {
     color: white;
     background-color: black;
-}
-
-.row2,
-.row6,
-.row4 {
-    margin-top: 40px;
-    margin-bottom: 100px;
 }
 
 .link1 {
@@ -81,6 +51,19 @@ body {
                 padding-right: 15px;
 }
 
+.link-page {
+    margin-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.1);
+    font-size: 14px;
+    border-radius: 5px;
+}
+
 .link-page1 {
         margin-left: 10px;
             padding-top: 10px;
@@ -94,6 +77,16 @@ body {
             border-radius: 5px;
 }
 
+.move-nextPage,
+.move-previousPage {
+        margin-left: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 15px;
+        padding-right: 15px;
+
+}
+
 .move-nextPage1 {
             margin-left: 10px;
                 padding-top: 10px;
@@ -104,4 +97,11 @@ body {
                 box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.1);
                 font-size: 14px;
                 border-radius: 50px;
+}
+
+.row2,
+.row4,
+.row6 {
+    margin-top: 40px;
+    margin-bottom: 100px;
 }
